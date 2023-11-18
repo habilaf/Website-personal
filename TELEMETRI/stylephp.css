@@ -1,0 +1,44 @@
+.background{
+    position: absolute;
+    width: max-content;
+    height: max-content;
+}
+
+.kop_logo{
+    position: absolute;
+    top: 20px;
+    left: 40px;
+}
+.judul_prepare{
+    position: absolute;
+    top: 35px;
+    left: 150px;
+    color: white;
+}
+.sedikit_kata{
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    color: white;
+}
+.form-control{
+    position: absolute;
+    top: 50px;
+    width: 500px;
+    height: 25px;
+    border-radius: 8px;
+}
+.form-control1{
+    position: absolute;
+    top: 83px;
+    width: 500px;
+    height: 25px;
+    border-radius: 8px;
+}
+.form-control2{
+    position: absolute;
+    top: 120px;
+    width: 500px;
+    height: 35px;
+    border-radius: 8px;
+}
